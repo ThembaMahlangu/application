@@ -1,0 +1,15 @@
+/home/raphaelfb/myprojects/application/bin/Debug/net7.0/application
+/home/raphaelfb/myprojects/application/bin/Debug/net7.0/application.deps.json
+/home/raphaelfb/myprojects/application/bin/Debug/net7.0/application.runtimeconfig.json
+/home/raphaelfb/myprojects/application/bin/Debug/net7.0/application.dll
+/home/raphaelfb/myprojects/application/bin/Debug/net7.0/application.pdb
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.csproj.AssemblyReference.cache
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.AssemblyInfoInputs.cache
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.AssemblyInfo.cs
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.csproj.CoreCompileInputs.cache
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.dll
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/refint/application.dll
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.pdb
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/application.genruntimeconfig.cache
+/home/raphaelfb/myprojects/application/obj/Debug/net7.0/ref/application.dll
